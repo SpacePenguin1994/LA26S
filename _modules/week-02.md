@@ -1,6 +1,7 @@
 ---
 title: 课程课件和讲义
 ---
+<!--
 Lec 0
 : **课程概览(Overview)**
   :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/LALec0-handout.pdf)\]
@@ -77,3 +78,6 @@ Lec 13
 Lec 14
 : **复习（Review）**
   :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/LALec16-handout.pdf)\]
+
+-->
+
