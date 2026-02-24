@@ -74,7 +74,7 @@ description: >-
 
 最终的成绩是上述两部分的加权平均：
 
-: **Grade**{:.label.label-green} = 40%* **HW**{:.label.label-green} +  60%* **Exam**{:.label.label-green} 
+: **Grade**{:.label.label-green} = 40%* **HW**{:.label.label-red} +  60%* **Exam**{:.label.label-green} 
 
 ## 课程资源
 
