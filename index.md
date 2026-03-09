@@ -65,6 +65,10 @@ seo:
 - [2025年春季学期](https://www.la2025s.spacepenguin.com.cn)
 - [2024年春季学期](https://www.la2024s.spacepenguin.com.cn)
 
+## 课程资料勘误
+
+课程讲义中的错误已记录于[课程资料勘误](corrections.md)页面，请注意查阅。
+
 ## 课程通知
 
 {% assign announcements = site.announcements | reverse %}

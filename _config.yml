@@ -38,6 +38,7 @@ collections:
   schedules:
   announcements:
   syllabus:
+  correct:
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -60,6 +61,11 @@ defaults:
       type: syllabus
     values:
       layout: syllabus
+  - scope:
+      path: ''
+      type: correct
+    values:
+      layout: correction
 
 compress_html:
   clippings: all
