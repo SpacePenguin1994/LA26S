@@ -20,7 +20,15 @@ Lec 3
   :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/slides/LALec3-handout.pdf)\]
      \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/slides/Lecture-3.pdf)\]
 
+Lec 4
+: **线性空间(向量空间，Vector Space)**
+  :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/slides/LALec4-handout.pdf)\]
+     \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la26s/slides/Lecture-4.pdf)\]
 
+Lec 5
+: **相关性、基和维度(Independence, Basis and Dimension)**
+  :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/slides/LALec5-handout.pdf)\]
+     \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/slides/Lecture-5.pdf)\]
 
 <!--
 Lec 0
