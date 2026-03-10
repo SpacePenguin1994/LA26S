@@ -19,7 +19,7 @@
   },"3": {
     "doc": "课程资料勘误",
     "title": "课程资料勘误",
-    "content": "本页面记录课程讲义及相关资料中的勘误，欢迎同学们发现错误后通过课程反馈问卷反馈。 . | 行列式讲义第2页笔误 2026-03-10 第2页三阶行列式的计算中，$det(A)$的第五项$-a_{12}a_{23}a_{31}$应为$-a_{12}a_{21}a_{33}$，即公式应为: . \\[det(A) = a_{11}a_{22}a_{33} + a_{12}a_{23}a_{31} + a_{13}a_{21}a_{32} - a_{11}a_{23}a_{32} - a_{12}a_{21}a_{33} - a_{13}a_{22}a_{31}\\] 感谢徐彤佳的指正。 . | . ",
+    "content": "本页面记录课程讲义及相关资料中的勘误，欢迎同学们反馈。 . | 行列式讲义第2页笔误 2026-03-09 第2页三阶行列式的计算中，$\\det(A)$的第五项$-a_{12}a_{23}a_{31}$应为$-a_{12}a_{21}a_{33}$，即公式应为: . \\[\\det(A) = a_{11}a_{22}a_{33} + a_{12}a_{23}a_{31} + a_{13}a_{21}a_{32} - a_{11}a_{23}a_{32} - a_{12}a_{21}a_{33} - a_{13}a_{22}a_{31}\\] 感谢徐彤佳的指正。 . | 课件2第5页笔误 2026-03-10 第5页中第一个等式，消去矩阵乘以(8)的左侧系数矩阵，得到(10)的左侧系数矩阵应为： . \\[\\begin{bmatrix} 1 &amp; 0 &amp; 0 \\\\ -2 &amp; 1 &amp; 0 \\\\ 0 &amp; 0 &amp; 1 \\end{bmatrix}\\begin{bmatrix} 2 &amp; 4 &amp; -2 \\\\ 4 &amp; 9 &amp; -3 \\\\ -2 &amp; -3 &amp; 7\\end{bmatrix} \\begin{bmatrix}2 &amp; 4 &amp; -2 \\\\ 0 &amp; 1 &amp; 1 \\\\ -2 &amp; -3 &amp; 7 \\end{bmatrix}.\\] | 课件3第4页笔误 2026-03-10 第4页二阶矩阵的逆矩阵里，x,y,z,w的解缺少了一个系数，即： . \\[x=\\frac{1}{ad-bc}\\cdot d,\\ y=\\frac{1}{ad-bc}\\cdot (-b),\\ z=\\frac{1}{ad-bc}\\cdot (-c),\\ w=\\frac{1}{ad-bc}\\cdot a\\] | . ",
     "url": "http://localhost:4000/corrections/",
     "relUrl": "/corrections/"
   },"4": {
@@ -67,7 +67,7 @@
   },"11": {
     "doc": "主页",
     "title": "课程资料勘误",
-    "content": "课程讲义中的错误已记录于课程资料勘误页面，请注意查阅。 . ",
+    "content": "课程资料中的错误已记录于课程资料勘误页面，请注意查阅。 . ",
     "url": "http://localhost:4000/#%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99%E5%8B%98%E8%AF%AF",
     "relUrl": "/#课程资料勘误"
   },"12": {
@@ -109,7 +109,7 @@
   },"18": {
     "doc": "课程安排",
     "title": "课程课件和讲义",
-    "content": "Lec 0 课程概览(Overview) [课件] Lec 1 向量介绍(Introduction to Vectors) [课件] [讲义] Lec 2 解线性方程组(I)(Solving Linear Equations (I)) [课件] [讲义] Lec 3 矩阵(Matrics) [课件] [讲义] ",
+    "content": "Lec 0 课程概览(Overview) [课件] Lec 1 向量介绍(Introduction to Vectors) [课件] [讲义] Lec 2 解线性方程组(I)(Solving Linear Equations (I)) [课件] [讲义] Lec 3 矩阵(Matrics) [课件] [讲义] Lec 4 线性空间(向量空间，Vector Space) [课件] [讲义] Lec 5 相关性、基和维度(Independence, Basis and Dimension) [课件] [讲义] ",
     "url": "http://localhost:4000/schedule/#%E8%AF%BE%E7%A8%8B%E8%AF%BE%E4%BB%B6%E5%92%8C%E8%AE%B2%E4%B9%89",
     "relUrl": "/schedule/#课程课件和讲义"
   },"19": {
