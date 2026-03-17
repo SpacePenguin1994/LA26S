@@ -11,3 +11,8 @@ HW 2
 :  **对1班的学生** **HW**{: .label .label-red }Released: [Homework #2-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework2-class1-noblank.pdf) &nbsp; [Homework #2-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework2-class1-blank.pdf)
 :  **对2班的学生** **HW**{: .label .label-red }Released: [Homework #2-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework2-class2-noblank.pdf) &nbsp; [Homework #2-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework2-class2-blank.pdf)
 :  **DUE**{: .label .label-yellow} Mar 16 24:00
+
+HW 3    
+:  **对1班的学生** **HW**{: .label .label-red }Released: [Homework #3-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework3-class1-noblank.pdf) &nbsp; [Homework #3-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework3-class1-blank.pdf)
+:  **对2班的学生** **HW**{: .label .label-red }Released: [Homework #3-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework3-class2-noblank.pdf) &nbsp; [Homework #3-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework3-class2-blank.pdf)
+:  **DUE**{: .label .label-yellow} Mar 23 24:00
