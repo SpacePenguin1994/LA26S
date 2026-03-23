@@ -16,10 +16,15 @@ corrections:
 
       $$   \begin{bmatrix} 1 & 0 & 0 \\ -2 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}\begin{bmatrix} 2 & 4 & -2 \\ 4 & 9 & -3 \\ -2 & -3 & 7\end{bmatrix} \begin{bmatrix}2 & 4 & -2 \\ 0 & 1 & 1 \\ -2 & -3 & 7 \end{bmatrix}.$$
   
-  - title: "Lecture讲义3第4页笔误"
-    date: "2026-03-10"
+  - title: "Lecture讲义3第4页笔误（3月23日再更新）"
+    date: "2026-03-23"
+    thanks: "徐彤佳"
     content: |
-      第4页二阶矩阵的逆矩阵里，x,y,z,w的解缺少了一个系数，即：
+      第4页二阶矩阵的计算中，其逆矩阵必须满足应为：
+
+      $$ A^{-1}A=I \quad \Longrightarrow \quad \begin{array}{rcc}ax+cy & = & 1 \\bx+dy & = & 0 \\az+cw & = & 1 \\ bz+dw & = & 0 \\ \end{array}$$ 
+      
+      第4页二阶矩阵的逆矩阵里，$x,y,z,w$ 的解缺少了一个系数，即：
       
       $$ x=\frac{1}{ad-bc}\cdot d,\ y=\frac{1}{ad-bc}\cdot (-b),\ z=\frac{1}{ad-bc}\cdot (-c),\ w=\frac{1}{ad-bc}\cdot a $$
 
