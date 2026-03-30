@@ -30,6 +30,11 @@ Lec 5
   :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/slides/LALec5-handout.pdf)\]
      \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/slides/Lecture-5.pdf)\]
 
+Lec 6
+: **矩阵的列秩和行秩(Column Rank and Row Rank of Matrices)**
+  :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/slides/LALec6-handout.pdf)\]
+     \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/slides/Lecture-6.pdf)\]
+
 <!--
 Lec 0
 : **课程概览(Overview)**
