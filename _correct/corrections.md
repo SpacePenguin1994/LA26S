@@ -54,4 +54,26 @@ corrections:
             2\\4\\8
         \end{bmatrix} $$
     
+  -  title: "Lecture 7讲义第9页笔误"
+     date: "2026-04-20"
+     thanks: "鲁正仪"
+     content: |
+      第9页证明行交换不改变列秩的时候，比较应该是 $A$ 和 $A'$的第$k$个向量 $\mathbf{a}_k$和$\mathbf{a}'_k$：
+
+      $$ \begin{aligned}
+                    \mathbf{a}_k&=\begin{bmatrix}
+                        a_{1k}&\ldots &{\color{red}a_{ik}}&\ldots &{\color{red}a_{jk}}&\ldots &a_{nk}
+                    \end{bmatrix}^T\\  
+                    \mathbf{a}'_k&=\begin{bmatrix}
+                        a_{1k}&\ldots &{\color{red}a_{jk}}&\ldots &{\color{red}a_{ik}}&\ldots &a_{nk}
+                    \end{bmatrix}^T
+                \end{aligned} $$
+      
+      原来的版本下标有误，现已更正。
+
+  -  title: "Lecture 8讲义第5页证明错误"
+     date: "2026-04-20"
+     content: |
+      第5页关于引理 1.9 的 4: $(V^{\bot})^{\bot}=V$ 证明有误，新版本已经更正。
+    
 ---
