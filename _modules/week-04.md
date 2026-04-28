@@ -23,3 +23,6 @@ HW 6
 
 HW 7
 : **HW**{: .label .label-red }Released:[Homework #7-sol for Class 1](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework7-class1-answer.pdf)  [Homework #7-sol for Class 2](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework7-class2-answer.pdf)  
+
+HW 8
+: **HW**{: .label .label-red }Released:[Homework #8-sol for Class 1](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework8-class1-answer.pdf)  [Homework #8-sol for Class 2](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework8-class2-answer.pdf)  
