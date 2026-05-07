@@ -75,5 +75,13 @@ corrections:
      date: "2026-04-20"
      content: |
       第5页关于引理 1.9 的 4: $(V^{\bot})^{\bot}=V$ 证明有误，新版本已经更正。
+  
+  - title: "Lecture 9 讲义第1页笔误"
+    date: "2026-05-07"
+    thanks: "鲁芷仪"
+    content: |
+      第1页倒数第六行，第二个方程应该为：
+
+      $$\begin{bmatrix} 1 & 1 & 1\\1 & 1 & 1\\  4 & 2 & 1\\ 4 & 2 & 1\end{bmatrix}\begin{bmatrix}a\\b\\c\end{bmatrix}=\begin{bmatrix} 2\\3\\4\\5 \end{bmatrix}$$
     
 ---
