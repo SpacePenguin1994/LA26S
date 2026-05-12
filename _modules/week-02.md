@@ -50,6 +50,12 @@ Lec 9
   :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/slides/LALec9-handout.pdf)\]
      \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/slides/Lecture-9.pdf)\]
 
+Lec 10
+: **行列式（Determinants）**
+  :  \[[课件一](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/slides/LALec10-handout.pdf)\]
+     \[[课件二](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/slides/LALec11-handout.pdf)\]
+     \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/slides/Lecture-Determinants.pdf)\]
+
 <!--
 Lec 0
 : **课程概览(Overview)**
