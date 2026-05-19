@@ -83,5 +83,19 @@ corrections:
       第1页倒数第六行，第二个方程应该为：
 
       $$\begin{bmatrix} 1 & 1 & 1\\1 & 1 & 1\\  4 & 2 & 1\\ 4 & 2 & 1\end{bmatrix}\begin{bmatrix}a\\b\\c\end{bmatrix}=\begin{bmatrix} 2\\3\\4\\5 \end{bmatrix}$$
+ 
+  - title: "Lecture 10 讲义第18页、第20页笔误"
+    date: "2026-05-19"
+    thanks: "徐彤佳"
+    content: |
+       讲义第18页第7行，“从而由行列式的线性性，我们有”下面的公式中
+
+       $${\color{red}e_1} \text{应为} {\color{red}e_i}$$.
+
+       讲义第20页例2.20 中 置换 $\sigma_0$的第四个逆序对应该是 $(2,3)$，不是 $(2,1)$.
+
+       讲义第20页逆序数的重要性质中，第三个例子应为：
+
+       $$\tau(3241)=4\ &\Longrightarrow 3241\rightarrow 3214\rightarrow 2314\rightarrow 2134\rightarrow 1234 $$
     
 ---

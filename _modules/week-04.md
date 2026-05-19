@@ -29,3 +29,6 @@ HW 8
 
 HW 9
 : **HW**{: .label .label-red }Released:[Homework #9-sol for Class 1](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework9-class1-answer.pdf)  [Homework #9-sol for Class 2](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework9-class2-answer.pdf)  
+
+HW 10
+: **HW**{: .label .label-red }Released:[Homework #10-sol for Class 1](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework10-class1-answer.pdf)  [Homework #10-sol for Class 2](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework10-class2-answer.pdf)  
