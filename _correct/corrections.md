@@ -90,7 +90,7 @@ corrections:
     content: |
        讲义第18页第7行，“从而由行列式的线性性，我们有”下面的公式中
 
-       $${\color{red}e_1} \text{应为} {\color{red}e_i}$$.
+       $${\color{red}e_1} \text{应为} {\color{red}e_i}.$$
 
        讲义第20页例2.20 中 置换 $\sigma_0$的第四个逆序对应该是 $(2,3)$，不是 $(2,1)$.
 
