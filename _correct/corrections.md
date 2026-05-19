@@ -96,6 +96,6 @@ corrections:
 
        讲义第20页逆序数的重要性质中，第三个例子应为：
 
-       $$\tau(3241)=4\ &\Longrightarrow 3241\rightarrow 3214\rightarrow 2314\rightarrow 2134\rightarrow 1234 $$
+       $$\tau(3241)=4 \Longrightarrow 3241\rightarrow 3214\rightarrow 2314\rightarrow 2134\rightarrow 1234 $$
     
 ---
