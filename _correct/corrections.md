@@ -84,7 +84,7 @@ corrections:
 
       $$\begin{bmatrix} 1 & 1 & 1\\1 & 1 & 1\\  4 & 2 & 1\\ 4 & 2 & 1\end{bmatrix}\begin{bmatrix}a\\b\\c\end{bmatrix}=\begin{bmatrix} 2\\3\\4\\5 \end{bmatrix}$$
  
-  - title: "Lecture 10 讲义第18页、第20页笔误"
+  - title: "Lecture 行列式 讲义第18页、第20页笔误"
     date: "2026-05-19"
     thanks: "徐彤佳"
     content: |
@@ -97,5 +97,12 @@ corrections:
        讲义第20页逆序数的重要性质中，第三个例子应为：
 
        $$\tau(3241)=4 \Longrightarrow 3241\rightarrow 3214\rightarrow 2314\rightarrow 2134\rightarrow 1234 $$
+
+  - title: "Lecture 行列式 讲义第25页笔误"
+    date: "2026-05-25"
+    thanks: "余欣怡"
+    content: |
+      第25页定理2.30 中矩阵 $A$ 的最后一行第一个元素应该为 $a_{n1}$，原先 $a_{11}$ 是笔误，新版本已经更正。
+
     
 ---
