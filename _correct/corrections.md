@@ -56,7 +56,7 @@ corrections:
     
   -  title: "Lecture 7讲义第9页笔误"
      date: "2026-04-20"
-     thanks: "鲁正仪"
+     thanks: "鲁芷仪"
      content: |
       第9页证明行交换不改变列秩的时候，比较应该是 $A$ 和 $A'$的第$k$个向量 $\mathbf{a}_k$和$\mathbf{a}'_k$：
 
@@ -104,5 +104,16 @@ corrections:
     content: |
       第25页定理2.30 中矩阵 $A$ 的最后一行第一个元素应该为 $a_{n1}$，原先 $a_{11}$ 是笔误，新版本已经更正。
 
-    
+  - title: "Lecture 12 讲义第2页笔误"
+    date: "2026-05-29"
+    thanks: "余欣怡"
+    content: |
+      第2页加粗特征值和特征向量中，应为：
+      $$ AX^{-1}=\begin{bmatrix} A\bm x_1 & A\bm x_2\end{bmatrix}=X^{-1}\begin{bmatrix}\lambda_1 & 0\\ 0& \lambda_2\end{bmatrix}=\begin{bmatrix} \bm x_1 &\bm x_2 \end{bmatrix}\begin{bmatrix}\lambda_1 & 0\\ 0& \lambda_2\end{bmatrix}=\begin{bmatrix}  \lambda_1\bm x_1 &\lambda_2\bm x_2\end{bmatrix} $$ 
+
+      和
+
+      $${\color{red}A\bm x_1=\lambda_1\bm x_1,\quad  A\bm x_2=\lambda_2\bm x_2}$$
+
+      原先的版本有些下标书写不正确。
 ---
