@@ -61,3 +61,6 @@ HW 12
 :  **对1班的学生** **HW**{: .label .label-red }Released: [Homework #12-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework12-class1-noblank.pdf) &nbsp; [Homework #12-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework12-class1-blank.pdf)
 :  **对2班的学生** **HW**{: .label .label-red }Released: [Homework #12-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework12-class2-noblank.pdf) &nbsp; [Homework #12-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework12-class2-blank.pdf)
 :  **DUE**{: .label .label-yellow} Jun 1 24:00
+
+HW 13    
+:  **对1班和2班的学生** **HW**{: .label .label-red }Released: [Homework #13](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework13.pdf) 

@@ -66,6 +66,11 @@ Lec 13
   :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/slides/LALec13-handout.pdf)\]
      \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/slides/Lecture-13.pdf)\]
 
+Lec 14
+: **线性变换（Linear Transformations）**
+  :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/slides/LALec14-handout.pdf)\]
+     \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/slides/Lecture-14.pdf)\]
+
 <!--
 Lec 0
 : **课程概览(Overview)**

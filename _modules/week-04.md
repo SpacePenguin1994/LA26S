@@ -35,3 +35,6 @@ HW 10
 
 HW 11
 : **HW**{: .label .label-red }Released:[Homework #11-sol for Class 1](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework11-class1-answer.pdf)  [Homework #11-sol for Class 2](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework11-class2-answer.pdf)  
+
+HW 12
+: **HW**{: .label .label-red }Released:[Homework #12-sol for Class 1](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework12-class1-answer.pdf)  [Homework #12-sol for Class 2](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/homework/LA-homework12-class2-answer.pdf)  
