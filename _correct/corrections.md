@@ -109,11 +109,11 @@ corrections:
     thanks: "余欣怡"
     content: |
       第2页加粗特征值和特征向量中，应为：
-      $$ AX^{-1}=\begin{bmatrix} A\bm x_1 & A\bm x_2\end{bmatrix}=X^{-1}\begin{bmatrix}\lambda_1 & 0\\ 0& \lambda_2\end{bmatrix}=\begin{bmatrix} \bm x_1 &\bm x_2 \end{bmatrix}\begin{bmatrix}\lambda_1 & 0\\ 0& \lambda_2\end{bmatrix}=\begin{bmatrix}  \lambda_1\bm x_1 &\lambda_2\bm x_2\end{bmatrix} $$ 
+      $$ AX^{-1}=\begin{bmatrix} A\mathbf{x}_1 & A\mathbf{x}_2\end{bmatrix}=X^{-1}\begin{bmatrix}\lambda_1 & 0\\ 0& \lambda_2\end{bmatrix}=\begin{bmatrix} \mathbf{x}_1 &\mathbf{x}_2 \end{bmatrix}\begin{bmatrix}\lambda_1 & 0\\ 0& \lambda_2\end{bmatrix}=\begin{bmatrix}  \lambda_1\mathbf{x}_1 &\lambda_2\mathbf{x}_2\end{bmatrix} $$ 
 
       和
 
-      $${\color{red}A\bm x_1=\lambda_1\bm x_1,\quad  A\bm x_2=\lambda_2\bm x_2}$$
+      $${\color{red}A\mathbf{x}_1=\lambda_1\mathbf{x}_1,\quad  A\mathbf{x}_2=\lambda_2\mathbf{x}_2}$$
 
       原先的版本有些下标书写不正确。
 ---
