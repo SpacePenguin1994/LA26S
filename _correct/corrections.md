@@ -109,7 +109,8 @@ corrections:
     thanks: "余欣怡"
     content: |
       第2页加粗特征值和特征向量中，应为：
-      $$ AX^{-1}=\begin{bmatrix} A\mathbf{x}_1 & A\mathbf{x}_2\end{bmatrix}=X^{-1}\begin{bmatrix}\lambda_1 & 0\\ 0& \lambda_2\end{bmatrix}=\begin{bmatrix} \mathbf{x}_1 &\mathbf{x}_2 \end{bmatrix}\begin{bmatrix}\lambda_1 & 0\\ 0& \lambda_2\end{bmatrix}=\begin{bmatrix}  \lambda_1\mathbf{x}_1 &\lambda_2\mathbf{x}_2\end{bmatrix} $$ 
+
+      $$ AX^{-1}=\begin{bmatrix} A\mathbf{x}_1 & A\mathbf{x}_2\end{bmatrix}=X^{-1}\begin{bmatrix}\lambda_1 & 0\\ 0& \lambda_2\end{bmatrix}=\begin{bmatrix} \mathbf{x}_1 &\mathbf{x}_2 \end{bmatrix}\begin{bmatrix}\lambda_1 & 0\\ 0& \lambda_2\end{bmatrix}=\begin{bmatrix}  \lambda_1\mathbf{x}_1 &\lambda_2\mathbf{x}_2\end{bmatrix} $$
 
       和
 
