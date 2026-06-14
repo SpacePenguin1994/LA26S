@@ -71,6 +71,12 @@ Lec 14
   :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/slides/LALec14-handout.pdf)\]
      \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/slides/Lecture-14.pdf)\]
 
+Lec 15
+: **复习（Review）**
+  :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2026s/slides/LALec16-handout.pdf)\]
+
+-->
+
 <!--
 Lec 0
 : **课程概览(Overview)**
