@@ -117,4 +117,18 @@ corrections:
       $${\color{red}A\mathbf{x}_1=\lambda_1\mathbf{x}_1,\quad  A\mathbf{x}_2=\lambda_2\mathbf{x}_2}$$
 
       原先的版本有些下标书写不正确。
+
+  - title: "Lecture 讲义笔误修订合集"
+    date: "2026-06-19"
+    thanks: "徐彤佳"
+    content: |
+       讲义III 第3页，例1.3中矩阵乘法的结果第2行第3列应是-4，而不是-6.
+
+       讲义IV 第10页，例2.9中矩阵 $A$的左零空间仅由$\begin{bmatrix} -2\\1\end{bmatrix}$ 生成。
+
+       讲义V 第5页，最后两行应为： $S'$ 称为 $V$ 的基，$S'$的个数称为 $V$ 的维度。
+
+       讲义V 第6页，例2.7的2中， $L_2$ 是线性无关的。
+
+
 ---
