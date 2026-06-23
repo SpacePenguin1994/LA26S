@@ -130,5 +130,14 @@ corrections:
 
        讲义V 第6页，例2.7的2中， $L_2$ 是线性无关的。
 
+  - title: "Lecture 讲义笔误修订合集"
+    date: "2026-06-23"
+    thanks: "鲁芷仪"
+    content: |
+       讲义VII 第6页，第4行 $R$ 的 rank、row-rank和column-rank 都应该为 4，而不是3.
+
+       讲义VIII 第5页，例1.12 中的1，在例1.5中应该是 $V_3^{\perp}= V_5$，而不是 $V_4$.
+
+
 
 ---
